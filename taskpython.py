@@ -7,9 +7,12 @@ else:
 
 #Question 2
 mul = int(input("Enter a number: "))
-while mul in range(1, 11):
-    print(num, "x", mul, "=", num * mul)
-    mul += 1
+count = 1
+
+while count in range(1, 11):
+    print(count, "x", mul, "=", count * mul)
+    count += 1
+
     
 # Question 3
 num1 = input("Enter first number: ")
