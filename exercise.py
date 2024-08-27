@@ -23,7 +23,7 @@ print(rest)
 # fruits = ("apple", "banana", "cherry", "date")
 # fruits[1] = "blueberry"
 # print(fruits)
-# It throws an error because tuples are immutable
+# #It throws an error because tuples are immutable
 
 # Creating Sets:
 # Create a set called colors with the elements "red", "green", "blue", "yellow".
